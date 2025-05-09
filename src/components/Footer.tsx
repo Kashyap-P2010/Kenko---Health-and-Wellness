@@ -56,7 +56,7 @@ const Footer: React.FC = () => {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-center sm:justify-between text-xs text-emerald-200">
           <p>Made with <Heart className="inline-block h-3 w-3 text-red-400" /> for a healthier world</p>
           <p className="mt-2 sm:mt-0">
-            <a href="#" className="hover:text-white transition-colors flex items-center">
+            <a href="https://github.com/Kashyap-P2010/Kenko---Health-and-Wellness" className="hover:text-white transition-colors flex items-center">
               <Github className="h-4 w-4 mr-1" /> View on GitHub
             </a>
           </p>
